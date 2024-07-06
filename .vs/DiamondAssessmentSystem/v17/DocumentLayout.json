@@ -1,0 +1,877 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\iformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\iformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\dto\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\dto\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\bookingdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\bookingdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\dto\\bookingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\dto\\bookingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\dto\\certificatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\dto\\certificatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\certerficatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\certerficatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\servicepricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\servicepricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\businessobject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\businessobject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\servicepricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\servicepricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\istaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\iservicepricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\iservicepricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\iresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\iresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\icerterficaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\icerterficaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\dataaccess\\irepository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\dataaccess\\irepository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|d:\\study\\fpt\\sem 5\\swp\\src\\diamondassessmentsystem\\diamondassessmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73DF6DA7-F963-4CED-BF8E-DE62E5A2FE7D}|DiamondAssessmentSystem\\DiamondAssessmentSystem.csproj|solutionrelative:diamondassessmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:64:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:56:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:70:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:69:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:73:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:72:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingDetailController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\BookingDetailController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\BookingDetailController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\BookingDetailController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\BookingDetailController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAswLcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:05:44.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwDMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:07:24.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:10:29.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\Form.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\Models\\Form.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\Form.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\Models\\Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:37:18.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\FormController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\FormController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\FormController.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAswK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:36:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDTO.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\FormDTO.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\DTO\\FormDTO.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\FormDTO.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\DTO\\FormDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:11:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFormRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IFormRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IFormRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IFormRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IFormRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:08:48.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\FormRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\FormRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\FormRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\FormRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:09:40.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAkwJAAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:54:13.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDetailRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\BookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\BookingDetailRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\BookingDetailRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\BookingDetailRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:03:54.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookingDetailRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IBookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IBookingDetailRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IBookingDetailRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IBookingDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:03:22.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:30:55.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffDTO.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\StaffDTO.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\DTO\\StaffDTO.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\StaffDTO.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\DTO\\StaffDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:31:14.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\Models\\Staff.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\Staff.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:32:56.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\BookingRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\BookingRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA7wD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:55:38.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IBookingRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IBookingRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IBookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:55:31.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingDetailDTO.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\BookingDetailDTO.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\DTO\\BookingDetailDTO.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\BookingDetailDTO.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\DTO\\BookingDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:54:26.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\Models\\BookingDetail.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\BookingDetail.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\Models\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:40:02.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\Models\\Booking.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\Booking.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\Models\\Booking.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAywBEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:52:22.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\DTO\\BookingDTO.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\BookingDTO.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\DTO\\BookingDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:54:27.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CertificateDTO.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\CertificateDTO.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\DTO\\CertificateDTO.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\DTO\\CertificateDTO.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\DTO\\CertificateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:01:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CerterficateController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\CerterficateController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\CerterficateController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\CerterficateController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\CerterficateController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAUwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:35:41.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwFoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:36:22.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResultController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\ResultController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\ResultController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\ResultController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\ResultController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwGYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:37:35.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServicePriceController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\ServicePriceController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\ServicePriceController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\ServicePriceController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\ServicePriceController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:37:58.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Controllers\\StaffController.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:38:13.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\BusinessObject\\Models\\Account.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\BusinessObject\\Models\\Account.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\BusinessObject\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:11:13.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\Program.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\Program.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:53:45.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\StaffRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\StaffRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\StaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:09:58.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServicePriceRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\ServicePriceRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\ServicePriceRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\ServicePriceRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\ServicePriceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:09:53.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResultRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\ResultRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\ResultRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\ResultRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\ResultRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:09:48.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\CustomerRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:09:31.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CertificateRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\CertificateRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\CertificateRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\CertificateRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\CertificateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:09:23.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IStaffRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IStaffRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IStaffRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IStaffRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IStaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:09:10.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IServicePriceRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IServicePriceRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IServicePriceRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IServicePriceRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IServicePriceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:09:06.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IResultRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IResultRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IResultRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IResultRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IResultRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:08:59.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:07:56.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\Repository\\BlogRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\Repository\\BlogRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\Repository\\BlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:07:57.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\ICustomerRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\ICustomerRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:08:45.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICerterficateRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\ICerterficateRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\ICerterficateRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\ICerterficateRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\ICerterficateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:08:40.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IAccountRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IAccountRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:08:28.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IBlogRepository.cs",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\DataAccess\\IRepository\\IBlogRepository.cs",
+              "RelativeToolTip": "DiamondAssessmentSystem\\DataAccess\\IRepository\\IBlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:08:08.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "DiamondAssessmentSystem\\appsettings.json",
+              "ToolTip": "D:\\STUDY\\FPT\\Sem 5\\SWP\\Src\\DiamondAssessmentSystem\\DiamondAssessmentSystem\\appsettings.json",
+              "RelativeToolTip": "DiamondAssessmentSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T16:42:13.276Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
